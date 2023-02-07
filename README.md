@@ -1,5 +1,6 @@
 # 💫 About Me:
-DEVELOPER & SOFTWARE ENGINEER<br>Graduated from University of La Rioja in Computer Engineering and mention in Software Engineering.<br>The technologies I specialize in are mainly the ASP NET Core technology stack.<br><br>DESARROLLADOR & INGENIERO DE SOFTWARE<br>Graduado en la Universidad de la Rioja en Ingeniería informática y mención en ingeniería de Software.<br>Las tecnologías en las que me especializo son principalmente la pila tecnológica de ASP NET Core.
+DEVELOPER & SOFTWARE ENGINEER<br>Graduated from University of La Rioja in Computer Engineering and mention in Software Engineering.<br>The technologies I specialize in are mainly the ASP NET Core technology stack.Blazor dev.<br><br>DESARROLLADOR & INGENIERO DE SOFTWARE<br>Graduado en la Universidad de la Rioja en Ingeniería informática y mención en ingeniería de Software.<br>Las tecnologías en las que me especializo son principalmente la pila tecnológica de ASP NET Core. Principalmente desarrollador de Blazor
+
 
 
 ## 🌐 Socials:
