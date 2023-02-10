@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-![circles](https://user-images.githubusercontent.com/43806203/218102572-80c87011-c3e7-456b-a550-54c25662a601.png)
+<h3 align="center">Hector Solar Ruiz</h3>
+<p align="center" width="300">
+   
+  ![circles](https://user-images.githubusercontent.com/43806203/218102572-80c87011-c3e7-456b-a550-54c25662a601.png)
+</p>
+
 
 
 
