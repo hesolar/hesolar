@@ -1,4 +1,9 @@
 # 💫 About Me:
+
+![circles](https://user-images.githubusercontent.com/43806203/218102572-80c87011-c3e7-456b-a550-54c25662a601.png)
+
+
+
 DEVELOPER & SOFTWARE ENGINEER<br>Graduated from University of La Rioja in Computer Engineering and mention in Software Engineering.<br>The technologies I specialize in are mainly the ASP NET Core technology stack.<br><strong>Blazor dev</strong>.<br><br>DESARROLLADOR & INGENIERO DE SOFTWARE<br>Graduado en la Universidad de la Rioja en Ingeniería informática y mención en ingeniería de Software.<br>Las tecnologías en las que me especializo son principalmente la pila tecnológica de ASP NET Core. <br>Principalmente <strong>desarrollador de Blazor</strong>
 
 
