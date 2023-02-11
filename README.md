@@ -5,7 +5,7 @@
    <img align="center" width="800" src="https://user-images.githubusercontent.com/43806203/218273915-c47c52fb-0659-4289-8329-69c3371caf19.jpeg" />
 
 </p>
-<h3>Checkout my <a href="hesolar.github.io">CV</a> </h3>
+<h3>Checkout my <a href="https://hesolar.github.io/CV">CV</a> </h3>
 
 
 
