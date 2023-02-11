@@ -3,6 +3,8 @@
 <h3 align="center">Héctor Solar Ruiz</h3>
 <p align="center" width="300" height="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/43806203/218102572-80c87011-c3e7-456b-a550-54c25662a601.png" />
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/43806203/218273915-c47c52fb-0659-4289-8329-69c3371caf19.jpeg" />
+
 </p>
 
 
